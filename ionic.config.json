@@ -1,0 +1,7 @@
+{
+  "name": "BackGroundProcess",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
